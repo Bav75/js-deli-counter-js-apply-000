@@ -36,4 +36,3 @@ function currentLine(line) {
     return announcement;
   }
 }
-}
