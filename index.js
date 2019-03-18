@@ -37,4 +37,8 @@ function currentLine(line) {
     }
     return announcement;
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f1611ce530d95d0429deedd95fe2167899b4fd00
